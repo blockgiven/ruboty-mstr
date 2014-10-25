@@ -8,7 +8,7 @@ module Ruboty
         MSTR_ENDPOINT_URL = 'https://mstr.in/api/photos.json'
 
         def call
-          message.reply(mstr_photos.sample(message[:count].to_i).join($/))
+          message.reply((mstr_photos.sample(message[:count].to_i) + ['source: https://mstr.in/']).join($/))
         rescue
           message.reply("mstr fail: #{$!}")
         end

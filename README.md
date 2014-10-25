@@ -1,6 +1,6 @@
 # Ruboty::Mstr
 
-ruboty plugin to get delicious food pictures.
+ruboty plugin to get delicious food pictures from https://mstr.in/
 
 ## Installation
 
