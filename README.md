@@ -2,6 +2,8 @@
 
 ruboty plugin to get delicious food pictures from https://mstr.in/
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
