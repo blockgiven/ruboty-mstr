@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    @ruboty 飯テロ 7
 
 ## Contributing
 
